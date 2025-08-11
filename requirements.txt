@@ -1,0 +1,28 @@
+# Updated requirements for Python 3.13 compatibility
+langchain>=0.2.0
+langchain-openai>=0.1.0
+langchain-community>=0.2.0
+openai>=1.35.0
+faiss-cpu>=1.8.0
+pypdf>=4.2.0
+tiktoken>=0.7.0
+numpy>=1.26.0
+python-dotenv>=1.0.0
+langchain-google-genai 
+pydantic 
+pypdf 
+faiss-cpu 
+langchainhub
+
+# Additional dependencies that might be needed
+setuptools>=70.0.0
+
+# langchain-google-genai
+# langchain
+# langchain-community
+# langchainhub
+# pydantic>=2.11.7
+# pypdf>=5.9.0
+# faiss-cpu>=1.11.0
+# numpy>=2.3.2
+# python-dotenv>=1.1.1
